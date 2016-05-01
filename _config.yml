@@ -1,0 +1,28 @@
+name: Joe R Marshall
+favicon: null
+layout_spectrum: 0.04227097914554179
+typography_spectrum: 0.2542822416871786
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5441125012002885
+  lightness: 0.15509351855143905
+  saturation: 0.4283880938310176
+  rhythmicContrast: 0.6483208101708442
+purpose: []
